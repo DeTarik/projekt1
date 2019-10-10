@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0027ea5a-3431-4f0e-844d-b88eda0da5ee" name="Default Changelist" comment="" />
+    <list default="true" id="0027ea5a-3431-4f0e-844d-b88eda0da5ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allclasses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/example/ArrayList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/example/Biblotek.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/example/Bok.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/example/LjudBok.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/example/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/example/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-migrate-3.0.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jszip/dist/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/type-search-index.zip" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +83,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RKoZgV2g7x7BkKAb2amscTZGd0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -60,5 +135,16 @@
       <updated>1569425205592</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
